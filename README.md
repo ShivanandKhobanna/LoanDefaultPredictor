@@ -1,5 +1,5 @@
 # LoanDefaultPredictor
-This repo consists implementation of a  supervised learning model to predict the probability of default.
+Implementation of a  supervised learning model to predict the probability of default.
 
 # Case Study - Machine Learning
 
