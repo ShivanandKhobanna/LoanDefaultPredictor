@@ -23,6 +23,8 @@ The data is located in the attached file dataset.csv. This is a simple semicolon
 file containing a unique id uuid, the target variable default and a number of features with
 somewhat different data types. Missing values are denoted as NA. The features are as follows:
 
+|Column name |Datatype|
+|------------|--------|
 |uuid |text|
 |default |categorical|
 |account_amount_added_12_24m |numeric|
